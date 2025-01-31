@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+  background-size: cover;
+  background-image: url("images/one.jpg");
+  background-position: center;
+}
+.sign-up-form {
+  width: 450px;
+  height: 400px;
+  border-radius: 30px;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  background: transparent;
+  padding: 20px;
+  margin: 8% auto 0;
+  text-align: center;
+}
+.sign-up-form h1 {
+  color: black;
+  margin-bottom: 20px;
+}
+.input-box {
+  border-radius: 30px;
+  height: 25px;
+  width: 260px;
+}
+button {
+  color: aliceblue;
+  height: 30px;
+  width: 260px;
+  border-radius: 20px;
+  font-size: 15px;
+  margin: 10px 0;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+.signup-button {
+  background-color: blue;
+}
+.twitter-button {
+  background-color: lightseagreen;
+}
+.or {
+  background: white;
+  width: 30px;
+  margin: auto;
+}
